@@ -1,0 +1,17 @@
+D:\file_code\c#\com\com\bin\Debug\net6.0-windows\com.exe
+D:\file_code\c#\com\com\bin\Debug\net6.0-windows\com.deps.json
+D:\file_code\c#\com\com\bin\Debug\net6.0-windows\com.runtimeconfig.json
+D:\file_code\c#\com\com\bin\Debug\net6.0-windows\com.dll
+D:\file_code\c#\com\com\bin\Debug\net6.0-windows\com.pdb
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.csproj.AssemblyReference.cache
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.Form1.resources
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.csproj.GenerateResource.cache
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.AssemblyInfoInputs.cache
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.AssemblyInfo.cs
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.csproj.CoreCompileInputs.cache
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.dll
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\refint\com.dll
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.pdb
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\com.genruntimeconfig.cache
+D:\file_code\c#\com\com\obj\Debug\net6.0-windows\ref\com.dll

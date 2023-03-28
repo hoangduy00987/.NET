@@ -1,0 +1,17 @@
+D:\file_code\c#\apptinhtien\apptinhtien\bin\Debug\net6.0-windows\apptinhtien.exe
+D:\file_code\c#\apptinhtien\apptinhtien\bin\Debug\net6.0-windows\apptinhtien.deps.json
+D:\file_code\c#\apptinhtien\apptinhtien\bin\Debug\net6.0-windows\apptinhtien.runtimeconfig.json
+D:\file_code\c#\apptinhtien\apptinhtien\bin\Debug\net6.0-windows\apptinhtien.dll
+D:\file_code\c#\apptinhtien\apptinhtien\bin\Debug\net6.0-windows\apptinhtien.pdb
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.csproj.AssemblyReference.cache
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.Form1.resources
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.csproj.GenerateResource.cache
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.AssemblyInfoInputs.cache
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.AssemblyInfo.cs
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.csproj.CoreCompileInputs.cache
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.dll
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\refint\apptinhtien.dll
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.pdb
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\apptinhtien.genruntimeconfig.cache
+D:\file_code\c#\apptinhtien\apptinhtien\obj\Debug\net6.0-windows\ref\apptinhtien.dll

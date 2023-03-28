@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LSH">
+    <Key>
+      <PropertyRef Name="ID_LOP" />
+    </Key>
+    <Property Name="ID_LOP" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameLop" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SV">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="DTB" Type="float" Nullable="false" />
+    <Property Name="TENSV" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NGAYSINH" Type="datetime" Nullable="false" />
+    <Property Name="TENLOP" Type="char" MaxLength="15" Nullable="false" />
+    <Property Name="ID_LOP" Type="int" Nullable="false" />
+    <Property Name="GENDER" Type="bit" Nullable="false" />
+    <Property Name="ANH" Type="bit" Nullable="false" />
+    <Property Name="CCCD" Type="bit" Nullable="false" />
+    <Property Name="HOSO" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__SV__ID_LOP__4BAC3F29">
+    <End Role="LSH" Type="Self.LSH" Multiplicity="1" />
+    <End Role="SV" Type="Self.SV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LSH">
+        <PropertyRef Name="ID_LOP" />
+      </Principal>
+      <Dependent Role="SV">
+        <PropertyRef Name="ID_LOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSVModelStoreContainer">
+    <EntitySet Name="LSH" EntityType="Self.LSH" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SV" EntityType="Self.SV" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__SV__ID_LOP__4BAC3F29" Association="Self.FK__SV__ID_LOP__4BAC3F29">
+      <End Role="LSH" EntitySet="LSH" />
+      <End Role="SV" EntitySet="SV" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

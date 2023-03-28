@@ -1,0 +1,17 @@
+D:\file_code\c#\app1\app1\bin\Debug\net6.0-windows\app1.exe
+D:\file_code\c#\app1\app1\bin\Debug\net6.0-windows\app1.deps.json
+D:\file_code\c#\app1\app1\bin\Debug\net6.0-windows\app1.runtimeconfig.json
+D:\file_code\c#\app1\app1\bin\Debug\net6.0-windows\app1.dll
+D:\file_code\c#\app1\app1\bin\Debug\net6.0-windows\app1.pdb
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.csproj.AssemblyReference.cache
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.Form1.resources
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.csproj.GenerateResource.cache
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.AssemblyInfoInputs.cache
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.AssemblyInfo.cs
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.csproj.CoreCompileInputs.cache
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.dll
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\refint\app1.dll
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.pdb
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\app1.genruntimeconfig.cache
+D:\file_code\c#\app1\app1\obj\Debug\net6.0-windows\ref\app1.dll

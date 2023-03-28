@@ -1,0 +1,17 @@
+D:\file_code\c#\TINHTIEN\TINHTIEN\bin\Debug\net6.0-windows\TINHTIEN.exe
+D:\file_code\c#\TINHTIEN\TINHTIEN\bin\Debug\net6.0-windows\TINHTIEN.deps.json
+D:\file_code\c#\TINHTIEN\TINHTIEN\bin\Debug\net6.0-windows\TINHTIEN.runtimeconfig.json
+D:\file_code\c#\TINHTIEN\TINHTIEN\bin\Debug\net6.0-windows\TINHTIEN.dll
+D:\file_code\c#\TINHTIEN\TINHTIEN\bin\Debug\net6.0-windows\TINHTIEN.pdb
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.csproj.AssemblyReference.cache
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.Form1.resources
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.csproj.GenerateResource.cache
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.AssemblyInfoInputs.cache
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.AssemblyInfo.cs
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.csproj.CoreCompileInputs.cache
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.dll
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\refint\TINHTIEN.dll
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.pdb
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\TINHTIEN.genruntimeconfig.cache
+D:\file_code\c#\TINHTIEN\TINHTIEN\obj\Debug\net6.0-windows\ref\TINHTIEN.dll

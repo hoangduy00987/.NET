@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLSV" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DUY\SQLEXPRESS;Initial Catalog=QLSV;Integrated Security=True" SettingsObjectName="linqq.Properties.Settings" SettingsPropertyName="QLSVConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.SV" Member="SVs">
+    <Type Name="SV">
+      <Column Name="MSSV" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DTB" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="TENSV" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NGAYSINH" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TENLOP" Type="System.String" DbType="Char(15) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_LOP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GENDER" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="ANH" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CCCD" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="HOSO" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="LSH_SV" Member="LSH" ThisKey="ID_LOP" OtherKey="ID_LOP" Type="LSH" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LSH" Member="LSHes">
+    <Type Name="LSH">
+      <Column Name="ID_LOP" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NameLop" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="LSH_SV" Member="SVs" ThisKey="ID_LOP" OtherKey="ID_LOP" Type="SV" />
+    </Type>
+  </Table>
+</Database>

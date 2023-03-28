@@ -1,0 +1,7 @@
+D:\file_code\c#\nhapmatkhau\nhapmatkhau\obj\Debug\net6.0-windows\nhapmatkhau.csproj.AssemblyReference.cache
+D:\file_code\c#\nhapmatkhau\nhapmatkhau\obj\Debug\net6.0-windows\nhapmatkhau.Form1.resources
+D:\file_code\c#\nhapmatkhau\nhapmatkhau\obj\Debug\net6.0-windows\nhapmatkhau.csproj.GenerateResource.cache
+D:\file_code\c#\nhapmatkhau\nhapmatkhau\obj\Debug\net6.0-windows\nhapmatkhau.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\nhapmatkhau\nhapmatkhau\obj\Debug\net6.0-windows\nhapmatkhau.AssemblyInfoInputs.cache
+D:\file_code\c#\nhapmatkhau\nhapmatkhau\obj\Debug\net6.0-windows\nhapmatkhau.AssemblyInfo.cs
+D:\file_code\c#\nhapmatkhau\nhapmatkhau\obj\Debug\net6.0-windows\nhapmatkhau.csproj.CoreCompileInputs.cache

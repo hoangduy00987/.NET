@@ -1,0 +1,17 @@
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\bin\Debug\net6.0-windows\ketnoicsdl.exe
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\bin\Debug\net6.0-windows\ketnoicsdl.deps.json
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\bin\Debug\net6.0-windows\ketnoicsdl.runtimeconfig.json
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\bin\Debug\net6.0-windows\ketnoicsdl.dll
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\bin\Debug\net6.0-windows\ketnoicsdl.pdb
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.csproj.AssemblyReference.cache
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.Form1.resources
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.csproj.GenerateResource.cache
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.AssemblyInfoInputs.cache
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.AssemblyInfo.cs
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.csproj.CoreCompileInputs.cache
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.dll
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\refint\ketnoicsdl.dll
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.pdb
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ketnoicsdl.genruntimeconfig.cache
+D:\file_code\c#\ketnoicsdl\ketnoicsdl\obj\Debug\net6.0-windows\ref\ketnoicsdl.dll

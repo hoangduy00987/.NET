@@ -1,0 +1,17 @@
+D:\file_code\c#\maytinh\maytinh\bin\Debug\net6.0-windows\maytinh.exe
+D:\file_code\c#\maytinh\maytinh\bin\Debug\net6.0-windows\maytinh.deps.json
+D:\file_code\c#\maytinh\maytinh\bin\Debug\net6.0-windows\maytinh.runtimeconfig.json
+D:\file_code\c#\maytinh\maytinh\bin\Debug\net6.0-windows\maytinh.dll
+D:\file_code\c#\maytinh\maytinh\bin\Debug\net6.0-windows\maytinh.pdb
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.csproj.AssemblyReference.cache
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.Form1.resources
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.csproj.GenerateResource.cache
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.AssemblyInfoInputs.cache
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.AssemblyInfo.cs
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.csproj.CoreCompileInputs.cache
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.dll
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\refint\maytinh.dll
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.pdb
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\maytinh.genruntimeconfig.cache
+D:\file_code\c#\maytinh\maytinh\obj\Debug\net6.0-windows\ref\maytinh.dll

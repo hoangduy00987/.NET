@@ -1,0 +1,17 @@
+D:\file_code\c#\app\app\bin\Debug\net7.0-windows\app.exe
+D:\file_code\c#\app\app\bin\Debug\net7.0-windows\app.deps.json
+D:\file_code\c#\app\app\bin\Debug\net7.0-windows\app.runtimeconfig.json
+D:\file_code\c#\app\app\bin\Debug\net7.0-windows\app.dll
+D:\file_code\c#\app\app\bin\Debug\net7.0-windows\app.pdb
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.csproj.AssemblyReference.cache
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.Form1.resources
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.csproj.GenerateResource.cache
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.AssemblyInfoInputs.cache
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.AssemblyInfo.cs
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.csproj.CoreCompileInputs.cache
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.dll
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\refint\app.dll
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.pdb
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\app.genruntimeconfig.cache
+D:\file_code\c#\app\app\obj\Debug\net7.0-windows\ref\app.dll

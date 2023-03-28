@@ -1,0 +1,15 @@
+D:\file_code\c#\democode\democode\bin\Debug\democode.exe.config
+D:\file_code\c#\democode\democode\bin\Debug\democode.exe
+D:\file_code\c#\democode\democode\bin\Debug\democode.pdb
+D:\file_code\c#\democode\democode\obj\Debug\democode.csproj.AssemblyReference.cache
+D:\file_code\c#\democode\democode\obj\Debug\democode.csproj.SuggestedBindingRedirects.cache
+D:\file_code\c#\democode\democode\obj\Debug\democode.Form1.resources
+D:\file_code\c#\democode\democode\obj\Debug\democode.Properties.Resources.resources
+D:\file_code\c#\democode\democode\obj\Debug\democode.csproj.GenerateResource.cache
+D:\file_code\c#\democode\democode\obj\Debug\democode.csproj.CoreCompileInputs.cache
+D:\file_code\c#\democode\democode\obj\Debug\democode.exe
+D:\file_code\c#\democode\democode\obj\Debug\democode.pdb
+D:\file_code\c#\democode\democode\obj\Debug\democode.Form2.resources
+D:\file_code\c#\democode\democode\obj\Debug\democode.Form3.resources
+D:\file_code\c#\democode\democode\obj\Debug\democode.Form4.resources
+D:\file_code\c#\democode\democode\obj\Debug\democode.Form5.resources

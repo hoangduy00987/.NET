@@ -1,0 +1,8 @@
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.csproj.AssemblyReference.cache
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.Form1.resources
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.VIEW.Form2.resources
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.csproj.GenerateResource.cache
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.AssemblyInfoInputs.cache
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.AssemblyInfo.cs
+D:\file_code\c#\mo_HINH_3layers\mo_HINH_3layers\obj\Debug\net6.0-windows\mo_HINH_3layers.csproj.CoreCompileInputs.cache

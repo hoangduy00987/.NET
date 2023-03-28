@@ -1,0 +1,17 @@
+D:\file_code\c#\khamrang\khamrang\bin\Debug\net6.0-windows\khamrang.exe
+D:\file_code\c#\khamrang\khamrang\bin\Debug\net6.0-windows\khamrang.deps.json
+D:\file_code\c#\khamrang\khamrang\bin\Debug\net6.0-windows\khamrang.runtimeconfig.json
+D:\file_code\c#\khamrang\khamrang\bin\Debug\net6.0-windows\khamrang.dll
+D:\file_code\c#\khamrang\khamrang\bin\Debug\net6.0-windows\khamrang.pdb
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.csproj.AssemblyReference.cache
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.Dental.resources
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.csproj.GenerateResource.cache
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.AssemblyInfoInputs.cache
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.AssemblyInfo.cs
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.csproj.CoreCompileInputs.cache
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.dll
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\refint\khamrang.dll
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.pdb
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\khamrang.genruntimeconfig.cache
+D:\file_code\c#\khamrang\khamrang\obj\Debug\net6.0-windows\ref\khamrang.dll

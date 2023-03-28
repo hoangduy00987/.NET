@@ -1,0 +1,15 @@
+D:\file_code\c#\cautruc\cautruc\bin\Debug\net7.0\cautruc.exe
+D:\file_code\c#\cautruc\cautruc\bin\Debug\net7.0\cautruc.deps.json
+D:\file_code\c#\cautruc\cautruc\bin\Debug\net7.0\cautruc.runtimeconfig.json
+D:\file_code\c#\cautruc\cautruc\bin\Debug\net7.0\cautruc.dll
+D:\file_code\c#\cautruc\cautruc\bin\Debug\net7.0\cautruc.pdb
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.csproj.AssemblyReference.cache
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.AssemblyInfoInputs.cache
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.AssemblyInfo.cs
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.csproj.CoreCompileInputs.cache
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.dll
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\refint\cautruc.dll
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.pdb
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\cautruc.genruntimeconfig.cache
+D:\file_code\c#\cautruc\cautruc\obj\Debug\net7.0\ref\cautruc.dll

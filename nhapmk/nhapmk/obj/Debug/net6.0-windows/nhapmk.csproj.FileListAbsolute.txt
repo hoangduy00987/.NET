@@ -1,0 +1,17 @@
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.csproj.AssemblyReference.cache
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.Form1.resources
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.csproj.GenerateResource.cache
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.AssemblyInfoInputs.cache
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.AssemblyInfo.cs
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.csproj.CoreCompileInputs.cache
+D:\file_code\c#\nhapmk\nhapmk\bin\Debug\net6.0-windows\nhapmk.exe
+D:\file_code\c#\nhapmk\nhapmk\bin\Debug\net6.0-windows\nhapmk.deps.json
+D:\file_code\c#\nhapmk\nhapmk\bin\Debug\net6.0-windows\nhapmk.runtimeconfig.json
+D:\file_code\c#\nhapmk\nhapmk\bin\Debug\net6.0-windows\nhapmk.dll
+D:\file_code\c#\nhapmk\nhapmk\bin\Debug\net6.0-windows\nhapmk.pdb
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.dll
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\refint\nhapmk.dll
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.pdb
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\nhapmk.genruntimeconfig.cache
+D:\file_code\c#\nhapmk\nhapmk\obj\Debug\net6.0-windows\ref\nhapmk.dll

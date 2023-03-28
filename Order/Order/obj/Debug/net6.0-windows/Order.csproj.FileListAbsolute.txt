@@ -1,0 +1,17 @@
+D:\file_code\c#\Order\Order\bin\Debug\net6.0-windows\Order.exe
+D:\file_code\c#\Order\Order\bin\Debug\net6.0-windows\Order.deps.json
+D:\file_code\c#\Order\Order\bin\Debug\net6.0-windows\Order.runtimeconfig.json
+D:\file_code\c#\Order\Order\bin\Debug\net6.0-windows\Order.dll
+D:\file_code\c#\Order\Order\bin\Debug\net6.0-windows\Order.pdb
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.csproj.AssemblyReference.cache
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.Form1.resources
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.csproj.GenerateResource.cache
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.AssemblyInfoInputs.cache
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.AssemblyInfo.cs
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.csproj.CoreCompileInputs.cache
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.dll
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\refint\Order.dll
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.pdb
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\Order.genruntimeconfig.cache
+D:\file_code\c#\Order\Order\obj\Debug\net6.0-windows\ref\Order.dll

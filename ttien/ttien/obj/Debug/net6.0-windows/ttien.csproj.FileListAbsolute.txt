@@ -1,0 +1,7 @@
+D:\file_code\c#\ttien\ttien\obj\Debug\net6.0-windows\ttien.csproj.AssemblyReference.cache
+D:\file_code\c#\ttien\ttien\obj\Debug\net6.0-windows\ttien.Form1.resources
+D:\file_code\c#\ttien\ttien\obj\Debug\net6.0-windows\ttien.csproj.GenerateResource.cache
+D:\file_code\c#\ttien\ttien\obj\Debug\net6.0-windows\ttien.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\ttien\ttien\obj\Debug\net6.0-windows\ttien.AssemblyInfoInputs.cache
+D:\file_code\c#\ttien\ttien\obj\Debug\net6.0-windows\ttien.AssemblyInfo.cs
+D:\file_code\c#\ttien\ttien\obj\Debug\net6.0-windows\ttien.csproj.CoreCompileInputs.cache

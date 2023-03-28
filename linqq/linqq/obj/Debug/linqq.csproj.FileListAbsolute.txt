@@ -1,0 +1,12 @@
+D:\file_code\c#\linqq\linqq\bin\Debug\linqq.exe.config
+D:\file_code\c#\linqq\linqq\bin\Debug\linqq.exe
+D:\file_code\c#\linqq\linqq\bin\Debug\linqq.pdb
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.csproj.AssemblyReference.cache
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.csproj.SuggestedBindingRedirects.cache
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.Form1.resources
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.Form2.resources
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.Properties.Resources.resources
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.csproj.GenerateResource.cache
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.csproj.CoreCompileInputs.cache
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.exe
+D:\file_code\c#\linqq\linqq\obj\Debug\linqq.pdb

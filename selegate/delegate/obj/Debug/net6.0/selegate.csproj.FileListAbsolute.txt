@@ -1,0 +1,15 @@
+D:\file_code\c#\selegate\selegate\bin\Debug\net6.0\selegate.exe
+D:\file_code\c#\selegate\selegate\bin\Debug\net6.0\selegate.deps.json
+D:\file_code\c#\selegate\selegate\bin\Debug\net6.0\selegate.runtimeconfig.json
+D:\file_code\c#\selegate\selegate\bin\Debug\net6.0\selegate.dll
+D:\file_code\c#\selegate\selegate\bin\Debug\net6.0\selegate.pdb
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.csproj.AssemblyReference.cache
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.AssemblyInfoInputs.cache
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.AssemblyInfo.cs
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.csproj.CoreCompileInputs.cache
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.dll
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\refint\selegate.dll
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.pdb
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\selegate.genruntimeconfig.cache
+D:\file_code\c#\selegate\selegate\obj\Debug\net6.0\ref\selegate.dll

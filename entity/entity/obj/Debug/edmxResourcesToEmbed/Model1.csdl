@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LSH">
+    <Key>
+      <PropertyRef Name="ID_LOP" />
+    </Key>
+    <Property Name="ID_LOP" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameLop" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="SVs" Relationship="Self.FK__SV__ID_LOP__4BAC3F29" FromRole="LSH" ToRole="SV" />
+  </EntityType>
+  <EntityType Name="SV">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="DTB" Type="Double" Nullable="false" />
+    <Property Name="TENSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NGAYSINH" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="TENLOP" Type="String" MaxLength="15" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ID_LOP" Type="Int32" Nullable="false" />
+    <Property Name="GENDER" Type="Boolean" Nullable="false" />
+    <Property Name="ANH" Type="Boolean" Nullable="false" />
+    <Property Name="CCCD" Type="Boolean" Nullable="false" />
+    <Property Name="HOSO" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="LSH" Relationship="Self.FK__SV__ID_LOP__4BAC3F29" FromRole="SV" ToRole="LSH" />
+  </EntityType>
+  <Association Name="FK__SV__ID_LOP__4BAC3F29">
+    <End Role="LSH" Type="Self.LSH" Multiplicity="1" />
+    <End Role="SV" Type="Self.SV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LSH">
+        <PropertyRef Name="ID_LOP" />
+      </Principal>
+      <Dependent Role="SV">
+        <PropertyRef Name="ID_LOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSV_DB" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LSHes" EntityType="Self.LSH" />
+    <EntitySet Name="SVs" EntityType="Self.SV" />
+    <AssociationSet Name="FK__SV__ID_LOP__4BAC3F29" Association="Self.FK__SV__ID_LOP__4BAC3F29">
+      <End Role="LSH" EntitySet="LSHes" />
+      <End Role="SV" EntitySet="SVs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

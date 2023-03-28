@@ -1,0 +1,17 @@
+D:\file_code\c#\bando\bando\bin\Debug\net6.0-windows\bando.exe
+D:\file_code\c#\bando\bando\bin\Debug\net6.0-windows\bando.deps.json
+D:\file_code\c#\bando\bando\bin\Debug\net6.0-windows\bando.runtimeconfig.json
+D:\file_code\c#\bando\bando\bin\Debug\net6.0-windows\bando.dll
+D:\file_code\c#\bando\bando\bin\Debug\net6.0-windows\bando.pdb
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.csproj.AssemblyReference.cache
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.Form1.resources
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.csproj.GenerateResource.cache
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.AssemblyInfoInputs.cache
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.AssemblyInfo.cs
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.csproj.CoreCompileInputs.cache
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.dll
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\refint\bando.dll
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.pdb
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\bando.genruntimeconfig.cache
+D:\file_code\c#\bando\bando\obj\Debug\net6.0-windows\ref\bando.dll

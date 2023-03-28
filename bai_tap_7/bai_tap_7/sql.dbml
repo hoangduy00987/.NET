@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB" Class="sqlDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DUY\SQLexpress;Initial Catalog=DB;Integrated Security=True" SettingsObjectName="bai_tap_7.Properties.Settings" SettingsPropertyName="DBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LSH" Member="LSHes">
+    <Type Name="LSH">
+      <Column Name="ID_LOP" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NameLop" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="LSH_SV" Member="SVs" ThisKey="ID_LOP" OtherKey="ID_LOP" Type="SV" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SV" Member="SVs">
+    <Type Name="SV">
+      <Column Name="MSSV" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENSV" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ANH" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NGAYSINH" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="GENDER" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="HOSO" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CCCD" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DTB" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="ID_LOP" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="LSH_SV" Member="LSH" ThisKey="ID_LOP" OtherKey="ID_LOP" Type="LSH" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

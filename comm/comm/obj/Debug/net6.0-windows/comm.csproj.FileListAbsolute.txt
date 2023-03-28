@@ -1,0 +1,17 @@
+D:\file_code\c#\comm\comm\bin\Debug\net6.0-windows\comm.exe
+D:\file_code\c#\comm\comm\bin\Debug\net6.0-windows\comm.deps.json
+D:\file_code\c#\comm\comm\bin\Debug\net6.0-windows\comm.runtimeconfig.json
+D:\file_code\c#\comm\comm\bin\Debug\net6.0-windows\comm.dll
+D:\file_code\c#\comm\comm\bin\Debug\net6.0-windows\comm.pdb
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.csproj.AssemblyReference.cache
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.Form1.resources
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.csproj.GenerateResource.cache
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.AssemblyInfoInputs.cache
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.AssemblyInfo.cs
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.csproj.CoreCompileInputs.cache
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.dll
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\refint\comm.dll
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.pdb
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\comm.genruntimeconfig.cache
+D:\file_code\c#\comm\comm\obj\Debug\net6.0-windows\ref\comm.dll

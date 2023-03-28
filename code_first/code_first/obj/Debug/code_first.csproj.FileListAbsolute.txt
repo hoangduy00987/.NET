@@ -1,0 +1,16 @@
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.csproj.AssemblyReference.cache
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.csproj.SuggestedBindingRedirects.cache
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.Form1.resources
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.Properties.Resources.resources
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.csproj.GenerateResource.cache
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.csproj.CoreCompileInputs.cache
+D:\file_code\c#\code_first\code_first\bin\Debug\code_first.exe.config
+D:\file_code\c#\code_first\code_first\bin\Debug\code_first.exe
+D:\file_code\c#\code_first\code_first\bin\Debug\code_first.pdb
+D:\file_code\c#\code_first\code_first\bin\Debug\EntityFramework.dll
+D:\file_code\c#\code_first\code_first\bin\Debug\EntityFramework.SqlServer.dll
+D:\file_code\c#\code_first\code_first\bin\Debug\EntityFramework.xml
+D:\file_code\c#\code_first\code_first\bin\Debug\EntityFramework.SqlServer.xml
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.csproj.CopyComplete
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.exe
+D:\file_code\c#\code_first\code_first\obj\Debug\code_first.pdb
